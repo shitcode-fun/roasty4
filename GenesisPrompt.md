@@ -1,0 +1,1 @@
+Build a Telegram bot in Node.js using Telegraf that listens to group messages and responds with an AI-generated roast. Use OpenAI's GPT API to create short, funny, and edgy comebacks. Include commands to enable/disable roasting per group and set roast intensity (mild, medium, savage). Store group settings in a lightweight JSON file or MongoDB.
