@@ -1,0 +1,1 @@
+RoastBot is a Telegram bot that automatically roasts users with AI-generated insults. Triggered by messages or mentions, it uses humor to liven up chats with savage comebacks and personalized burns. Built for group entertainment, RoastBot adds spice to any convo—zero chill, maximum laughs. Make it funny.
